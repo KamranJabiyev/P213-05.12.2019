@@ -1,0 +1,5 @@
+E:\project\P213\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.dll
+E:\project\P213\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.pdb
+E:\project\P213\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+E:\project\P213\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.dll
+E:\project\P213\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.pdb

@@ -1,0 +1,9 @@
+E:\project\P213\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+E:\project\P213\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+E:\project\P213\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+E:\project\P213\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+E:\project\P213\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+E:\project\P213\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
+E:\project\P213\ConsoleApp\ConsoleApp\bin\Debug\ClassLibrary.dll
+E:\project\P213\ConsoleApp\ConsoleApp\bin\Debug\ClassLibrary.pdb
+E:\project\P213\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
